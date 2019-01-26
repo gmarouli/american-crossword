@@ -1,0 +1,1 @@
+int parseDictionary(char* filename);
